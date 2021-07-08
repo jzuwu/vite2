@@ -1,6 +1,5 @@
 <template>
-	<img alt="Vue logo" src="./assets/logo.png" />
-	<HelloWorld msg="Vite 2.0" />
+	<HelloWorld />
 </template>
 
 <script setup>
